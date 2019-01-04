@@ -1,6 +1,3 @@
-
-# coding: utf-8
-
 # # Milestone Project 2 - Walkthrough Steps Workbook
 # Below is a set of steps for you to follow to try to create the Blackjack Milestone Project game!
 
