@@ -1,7 +1,5 @@
 # BLACKJACK-game-
-this is the basic version of black jack game with instructions on every step. Go for it code and play!!!
-
-
+this is the basic version of black jack game with instructions on every step. Go for it code and play!!
 
 In this milestone project you will be creating a Complete BlackJack Card Game in Python.
 Black jack is a basic card game.
