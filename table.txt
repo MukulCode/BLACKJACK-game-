@@ -1,0 +1,13 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+ {
+  int n;
+  cout<<"enter the number whose table you want to see"\n;
+  cin>>n;
+  for(int a=1;a<=10;a++)
+   {
+    cout<<n<<"*"<<a<<"="<<n*a<<\t;
+   }
+  getch();
+ }
